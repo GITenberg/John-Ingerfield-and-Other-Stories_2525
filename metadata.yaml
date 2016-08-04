@@ -1,0 +1,30 @@
+_repo: John-Ingerfield-and-Other-Stories_2525
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jerome, Jerome K. (Jerome Klapka)
+    alias: Jerome, Jerome Klapka
+    birthdate: 1859
+    deathdate: 1927
+    gutenberg_agent_id: '173'
+    url: http://www.gutenberg.org/2009/agents/173
+    wikipedia: http://en.wikipedia.org/wiki/Jerome_K._Jerome
+description: ''
+gutenberg_issued: '2001-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2525'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Short stories'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: To the Gentle Reader -- In remembrance of John Ingerfield, and of
+  Anne, his wife --The woman of the saeter -- Variety patter --Silhouettes -- The
+  lease of the "Cross Keys".
+title: John Ingerfield, and Other Stories
+url: http://www.gutenberg.org/ebooks/2525
